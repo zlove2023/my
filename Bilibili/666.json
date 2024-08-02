@@ -1,0 +1,152 @@
+{
+    "cookie":"http://127.0.0.1:9978/file/TVBox/Bilibili/cookie.txt",
+    
+    
+   
+    
+    
+    
+    
+    
+    
+    
+        "classes": [
+   {"type_name": "MT管理器","type_id": "MT管理器"}, 
+   {"type_name": "网盘挂载","type_id": "网盘挂载"}, 
+   {"type_name": "alist+WebDav","type_id": "alist+WebDav"}, 
+   {"type_name": "Photoshop","type_id": "PS教程"},
+   {"type_name": "EXCEL","type_id": "EXCEL教程"}, 
+   {"type_name": "office","type_id": "office教程"}, 
+   {"type_name": "WPS","type_id": "WPS教程"}, 
+   {"type_name": "Studio one","type_id": "Studio one教程"}, 
+   {"type_name": "声卡调试","type_id": "声卡调试"}, 
+   {"type_name": "演唱会","type_id": "演唱会"}
+   ],
+   
+    
+    
+    
+    "filter": {
+
+           "EXCEL教程": [
+               {
+                   "key": "tid",
+                   "name": "分类",
+                   "value": [
+                       {
+                           "n": "全部",
+                           "v": "0"
+                       }
+                   ]
+               },
+               {
+                   "key": "duration",
+                   "name": "时长",
+                   "value": [
+                       {
+                           "n": "全部",
+                           "v": "0"
+                       },
+                       {
+                           "n": "60分钟以上",
+                           "v": "4"
+                       },
+                       {
+                           "n": "30~60分钟",
+                           "v": "3"
+                       },
+                       {
+                           "n": "10~30分钟",
+                           "v": "2"
+                       },
+                       {
+                           "n": "10分钟以下",
+                           "v": "1"
+                       }
+                   ]
+               }
+           ],
+
+
+
+
+
+
+
+
+           "演唱会": [
+            {
+                "key": "tid",
+                "name": "分类",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    }
+                ]
+            },
+            {
+                "key": "duration",
+                "name": "时长",
+                "value": [
+                    {
+                        "n": "全部",
+                        "v": "0"
+                    },
+                    {
+                        "n": "60分钟以上",
+                        "v": "4"
+                    },
+                    {
+                        "n": "30~60分钟",
+                        "v": "3"
+                    },
+                    {
+                        "n": "10~30分钟",
+                        "v": "2"
+                    },
+                    {
+                        "n": "10分钟以下",
+                        "v": "1"
+                    }
+                ]
+            }
+        ]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    } 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   } 
