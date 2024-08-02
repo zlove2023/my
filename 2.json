@@ -31,7 +31,7 @@
 	
 	
 	//学习
-	{"key": "学堂","name": "🅰️学堂┃教育","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./Bilibili/学堂教育.json"}, 
+	{"key": "自用","name": "🅰️詹詹┃自用","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./Bilibili/自用.json"}, 
 	
 	
 	
