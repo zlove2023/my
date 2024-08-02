@@ -32,6 +32,7 @@
 	
 	//学习
 	{"key": "自用","name": "🅰️詹詹┃自用","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./Bilibili/自用.json"}, 
+	{"key": "自用666","name": "🅰️自用┃666","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./Bilibili/666.json"}, 
 	
 	
 	
