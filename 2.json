@@ -55,7 +55,7 @@
 
 
 {"key": "土豆阿里","name":"🎦土豆阿里","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/土豆阿里.json"},
-{"key": "多多阿里","name":"🎦多多阿里","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://ttkx.live:55/lib/%E5%A4%9A%E5%A4%9A%E9%98%BF%E9%87%8C.json"},
+{"key": "多多阿里","name":"🎦多多阿里","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./zjson/多多阿里.json"},
 
 
 
