@@ -35,7 +35,7 @@
 	{"key": "自用666","name": "🅰️自用┃666","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"./Bilibili/666.json"}, 
 	
 	
-	{"key":"s01","name":"🐲s01","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"./js/采集之王.js?type=url&params=./zf/s01.json"},
+	//{"key":"s01","name":"🐲s01","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"./js/采集之王.js?type=url&params=./zf/s01.json"},
 	
 	
 	{"key":"采集合集","name":"🐲采集合集","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"order_num":142,"ext":"./js/采集之王.js?type=url&params=./zf/采集静态.json"},
