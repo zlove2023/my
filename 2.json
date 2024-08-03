@@ -44,7 +44,7 @@
         "name": "黑狐影院|XBPQ",
         "type": 3,
         "api": "csp_XBPQ",
-        "jar": "./lib/XBPQ.jar",
+        "jar": "./jar/XBPQ.jar",
         "ext": {
           "站名": "黑狐影院",
           "主页url": "http://fagmn.com",
