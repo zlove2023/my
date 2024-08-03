@@ -11,6 +11,12 @@
 	{"name":"詹詹自喜2","type":0,"url":"./live/02.json","playerType":1,"ua": "okhttp/3.12.13","logo": "https://live.fanmingming.com/tv/{name}.png"}
 	],
 	"sites": [
+
+       {"key":"Local","name":"📂本地文件管理器","type":3,"api":"csp_Local","jar":"./jar/bd.jar"},
+
+
+
+		
 	{"key":"豆瓣2","name":"豆瓣1📢詹詹自喜","type":3,"api":"csp_Douban","searchable":0},
 	{"key":"豆瓣1","name":"豆瓣2📢詹詹自喜","type":3,"api":"csp_Notice","searchable":0,"changeable": 0,"jar":"./jar/dm.jar;md5;894cf6d2fa3a41069f2cf7be7669460d","ext": "./zf/提示.json"},
 	
