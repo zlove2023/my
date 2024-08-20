@@ -133,7 +133,15 @@
 
 	"changeable": 0
 },
-
+    {
+      "key": "Wexqingfengdj",
+      "name": "🎼舞曲┃摇头🎼",
+      "type": 3,
+      "api": "csp_Wexqingfengdj",
+	    "jar":"./jar/wx2.jar;md5;b734924d1467c0cb9aedb4e0d179984a",
+      "searchable": 1,
+      "changeable": 0
+    },
 
 
 		
