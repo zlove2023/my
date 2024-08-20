@@ -122,7 +122,17 @@
 
 
 
+{
+	"key": "Iktv",
+	"name": "🎤KTV┃音乐🎤",
+	"type": 3,
+	"api": "csp_WexIktv",
+	"searchable": 1,
 
+	"jar":"./jar/wx2.jar;",
+
+	"changeable": 0
+},
 
 
 
