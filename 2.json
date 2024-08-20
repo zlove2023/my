@@ -129,7 +129,7 @@
 	"api": "csp_WexIktv",
 	"searchable": 1,
 
-	"jar":"./jar/wx2.jar;",
+	"jar":"./jar/wx2.jar;md5;b734924d1467c0cb9aedb4e0d179984a",
 
 	"changeable": 0
 },
