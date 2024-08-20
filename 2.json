@@ -107,10 +107,6 @@
 
 
 {"key":"csp_xBPQ_九八","name":"🎦九八影视","type":3,"api":"csp_XBPQ", "jar": "./jar/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./zjs/98影视.json"},
-{"key":"csp_七新","name":"🎦七新影视","type":3,"api":"csp_XBPQ", "jar": "./jar/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./zjs/七新影视.json"},
-{"key":"348影视","name":"🎦348┃秒播","type":3,"api":"csp_XBPQ", "jar": "./jar/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./zjs/348.json"},
-{"key":"csp_五五","name":"🎦五五┃秒播","type":3,"api":"csp_XBPQ", "jar": "./jar/XBPQ.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./zjs/55.json"},
-
 
 
 
