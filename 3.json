@@ -19,6 +19,21 @@
 {"key":"极速蓝光","name":"极速蓝光","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/极速蓝光.json"},
 
 
+{"key":"4K影院","name":"4K影院","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/4K影院.json"},
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
 
 {
 	"key": "py_cctv",
