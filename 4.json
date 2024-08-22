@@ -244,22 +244,24 @@
         },
         {
             "key": "千神影视",
-            "name": "🧿千神┃蓝光",
+            "name": "🧿千神影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		 "jar": "./jar/001.jar",
             "ext": "./json/千神影视.json"
         },
         {
             "key": "美柏影视",
-            "name": "🧿美柏┃蓝光",
+            "name": "🧿美柏影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		 "jar": "./jar/001.jar",
             "ext": "./json/美柏影视.json"
         },
         {
