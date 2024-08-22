@@ -231,14 +231,15 @@
         },
         {
             "key": "黑狐影院",
-            "name": "🧿黑狐┃蓝光",
+            "name": "🧿黑狐影院",
             "type": 3,
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-          "jar": "./jar/001.jar",
+        
             "playerType": "2",
             "api": "csp_XBPQ",
+		  "jar": "./jar/001.jar",
             "ext": "./XBPQ/黑狐.json"
         },
         {
