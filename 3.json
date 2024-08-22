@@ -24,7 +24,22 @@
 
 
 
-
+     {
+            "key": "星辰影院",
+            "name": "星辰影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+	     "jar": "./jar/001.jar",
+            "ext": {
+                "影片类型": "圥忈制作",
+                "播放标题": ">&&<[不包含:1080P]",
+                "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+                "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
+            }
+        },
 
 
 
