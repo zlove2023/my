@@ -163,7 +163,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/海纳TV.json"
+		 "jar": "./jar/001.jar",
+            "ext": "./XBPQ/海纳TV.json"
         },
         {
             "key": "利伍蓝光",
@@ -173,7 +174,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/策驰影视.json"
+		 "jar": "./jar/001.jar",
+            "ext": "./XBPQ/策驰影视.json"
         },
         {
             "key": "好影快看",
@@ -182,7 +184,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./json/好影快看.json"
+            "ext": "./XBPQ/好影快看.json"
         },
         {
             "key": "素白白影视",
@@ -191,7 +193,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./json/subaibai.json"
+            "ext": "./XBPQ/subaibai.json"
         },
         {
             "key": "Freeok影视",
@@ -202,7 +204,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/FOK.json"
+            "ext": "./XBPQ/FOK.json"
         },
         {
             "key": "酷吧影视",
@@ -211,7 +213,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./json/酷吧影视.json"
+            "ext": "./XBPQ/酷吧影视.json"
         },
         {
             "key": "侠客影视",
@@ -220,7 +222,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./json/侠客影视.json"
+            "ext": "./XBPQ/侠客影视.json"
         },
         {
             "key": "黑狐影院",
@@ -232,7 +234,7 @@
             "jar": "./jar/XBPQ1.jar",
             "playerType": "2",
             "api": "csp_XBPQ",
-            "ext": "./json/黑狐.json"
+            "ext": "./XBPQ/黑狐.json"
         },
         {
             "key": "千神影视",
