@@ -184,6 +184,7 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
+		 "jar": "./jar/001.jar",
             "ext": "./XBPQ/好影快看.json"
         },
         {
