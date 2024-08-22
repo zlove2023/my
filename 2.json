@@ -25,6 +25,11 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "jar": "./jar/xbpq.jar",
+
+
+
+	  
             "ext": {
                 "主页url": "https://www.dushe3.com:51111/",
                 "分类url": "https://www.dushe3.com:51111/{cateId}-{catePg}.html[https://www.dushe3.com:51111/{cateId}-.html];;ak",
