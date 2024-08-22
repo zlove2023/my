@@ -211,7 +211,7 @@
         },
         {
             "key": "酷吧影视",
-            "name": "🧿/酷吧影视",
+            "name": "🧿酷吧影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -221,11 +221,12 @@
         },
         {
             "key": "侠客影视",
-            "name": "🧿侠客┃蓝光",
+            "name": "🧿侠客影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
+		"jar": "./jar/001.jar",
             "ext": "./XBPQ/侠客影视.json"
         },
         {
@@ -235,7 +236,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "./jar/XBPQ1.jar",
+          "jar": "./jar/001.jar",
             "playerType": "2",
             "api": "csp_XBPQ",
             "ext": "./XBPQ/黑狐.json"
