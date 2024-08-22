@@ -14,32 +14,18 @@
 
        {"key":"Local","name":"📂本地文件管理器","type":3,"api":"csp_Local","jar":"./jar/bd.jar"},
        {"key":"drpy_js_南瓜影视","name":"南瓜影视[js]","type":3,"api":"./js/drpy2.min.js","ext":"./zjs/南瓜影视.js","jar":"./jar/bd.jar"},
-{"key":"毒舌电影","name":"毒舌电影","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/毒舌电影.json"},
+{"key":"毒舌电影","name":"🧿毒舌电影","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/毒舌电影.json"},
 
-{"key":"极速蓝光","name":"极速蓝光","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/极速蓝光.json"},
+{"key":"极速蓝光","name":"🧿极速蓝光","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/极速蓝光.json"},
 
-{"key":"热播之家","name":"热播之家","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/热播之家.json"},
+{"key":"热播之家","name":"🧿热播之家","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/热播之家.json"},
 
-{"key":"可乐影视","name":"可乐影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/可乐影视.json"},
+{"key":"可乐影视","name":"🧿可乐影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/可乐影视.json"},
+
+{"key":"星辰影院","name":"🧿星辰影院","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/星辰影院.json"},
 
 
 
-     {
-            "key": "星辰影院",
-            "name": "星辰影院",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-	     "jar": "./jar/001.jar",
-            "ext": {
-                "影片类型": "圥忈制作",
-                "播放标题": ">&&<[不包含:1080P]",
-                "分类url": "https://citytv.cc/tv/dianying/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
-                "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#短剧$duanju"
-            }
-        },
 
 
 
