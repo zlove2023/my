@@ -281,12 +281,13 @@
 		
         {
             "key": "可乐影视1",
-            "name": "🧿可乐┃蓝光1",
+            "name": "🧿可乐影视1",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "./jar/001.jar",
             "ext": {
                 "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"display: none;\"&&</span>",
                 "分类url": "https://www.kele365.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
