@@ -142,17 +142,17 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XBPQ/子子影视.json"
+            "ext": "./XBPQ/01子子影视.json"
         },
         {
-            "key": "天堂蓝光",
-            "name": "🧿天堂┃蓝光",
+            "key": "电影天堂",
+            "name": "🧿电影天堂",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/影院蓝光.json"
+            "ext": "./XBPQ/02电影天堂.json"
         },
         {
             "key": "海纳TV",
