@@ -194,7 +194,8 @@
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
-            "ext": "./XBPQ/subaibai.json"
+		"jar": "./jar/001.jar",
+            "ext": "./XBPQ/素白白.json"
         },
         {
             "key": "Freeok影视",
@@ -205,6 +206,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		"jar": "./jar/001.jar",
             "ext": "./XBPQ/FOK.json"
         },
         {
