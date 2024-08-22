@@ -199,7 +199,7 @@
         },
         {
             "key": "Freeok影视",
-            "name": "🧿剧卷┃蓝光",
+            "name": "🧿Freeok影视",
             "type": 3,
             "api": "csp_XBPQ",
             "playerType": 1,
@@ -207,15 +207,16 @@
             "quickSearch": 1,
             "filterable": 1,
 		"jar": "./jar/001.jar",
-            "ext": "./XBPQ/FOK.json"
+            "ext": "./XBPQ/Freeok影视.json"
         },
         {
             "key": "酷吧影视",
-            "name": "🧿酷吧┃蓝光",
+            "name": "🧿/酷吧影视",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
             "changeable": 1,
+		"jar": "./jar/001.jar",
             "ext": "./XBPQ/酷吧影视.json"
         },
         {
