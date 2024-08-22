@@ -125,18 +125,7 @@
         },
 
 
-    {
-            "key": "子子影视",
-            "name": "🧿子子┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-             "jar": "./jar/001.jar",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/zizi.json"
-        },
+   
 		
 
 
@@ -145,7 +134,7 @@
 
   {
             "key": "子子影视",
-            "name": "🧿子子┃蓝光",
+            "name": "🧿子子影视",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "./jar/001.jar",
@@ -153,7 +142,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./json/zizi.json"
+            "ext": "./XBPQ/子子影视.json"
         },
         {
             "key": "天堂蓝光",
