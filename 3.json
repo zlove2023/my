@@ -152,6 +152,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+		  "jar": "./jar/001.jar",
             "ext": "./XBPQ/电影天堂.json"
         },
         {
