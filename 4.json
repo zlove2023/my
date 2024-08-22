@@ -251,7 +251,7 @@
             "quickSearch": 1,
             "filterable": 1,
 		 "jar": "./jar/001.jar",
-            "ext": "./json/千神影视.json"
+            "ext": "./XBPQ/千神影视.json"
         },
         {
             "key": "美柏影视",
@@ -262,7 +262,7 @@
             "quickSearch": 1,
             "filterable": 1,
 		 "jar": "./jar/001.jar",
-            "ext": "./json/美柏影视.json"
+            "ext": "./XBPQ/美柏影视.json"
         },
         {
             "key": "可可影视",
@@ -271,7 +271,8 @@
             "playerType": 2,
             "searchable": 1,
             "api": "csp_XBPQ",
-            "ext": "./json/kkys.json"
+		"jar": "./jar/001.jar",
+            "ext": "./XBPQ/kkys.json"
         },
         {
             "key": "可乐影视",
