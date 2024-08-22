@@ -142,7 +142,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XBPQ/01子子影视.json"
+            "ext": "./XBPQ/子子影视.json"
         },
         {
             "key": "电影天堂",
@@ -152,7 +152,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "./XBPQ/02电影天堂.json"
+            "ext": "./XBPQ/电影天堂.json"
         },
         {
             "key": "海纳TV",
