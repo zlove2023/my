@@ -209,7 +209,11 @@
 
 {"key":"电影驿站","name":"🧿电影驿站","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/电影驿站.json"},
 
+{"key":"小熊影视","name":"🧿小熊影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/小熊影视.json"},
 
+
+
+{"key":"凯奇影视","name":"🧿凯奇影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/凯奇影视.json"},
 
 
 
@@ -218,36 +222,8 @@
 
 		
 
-        {
-            "key": "小熊影视",
-            "name": "🧿小熊┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.xxystv.top/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "动作片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11#动漫片$12#纪录片$20#喜剧片$21#其他片$22#中国剧$13#欧美剧$14#日韩剧$15#港台剧$16#其他剧$23#动漫$3#综艺$4#伦理片$5"
-            }
-        },
-        {
-            "key": "凯奇影视",
-            "name": "🧿凯奇┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/dokilwss.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
-                "线路数组": "class=\"iconfont hl-icon-laiyuan\"&&</a>[不包含:线路1]",
-                "线路标题": "</i>&nbsp;&&</span>[不包含:线路1]",
-                "分类url": "https://cageyy.com/vodshow/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanshipin"
-            }
-        },
+
+       
         {
             "key": "速迅影视",
             "name": "🧿速迅┃蓝光",
