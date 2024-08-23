@@ -27,15 +27,34 @@
 {"key":"TVB云播","name":"🧿TVB云播","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/TVB云播.json"},
 
 
+{"key":"子子影视","name":"🧿子子影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/子子影视.json"},
+
+{"key":"电影天堂","name":"🧿电影天堂","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/电影天堂.json"},
+
+{"key":"海纳TV","name":"🧿海纳TV","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/海纳TV.json"},
+
+{"key":"策驰影视","name":"🧿策驰影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/策驰影视.json"},
 
 
 
 
+{"key":"好影快看","name":"🧿好影快看","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/好影快看.json"},
+
+{"key":"电影天堂","name":"🧿电影天堂","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/电影天堂.json"},
+
+{"key":"海纳TV","name":"🧿海纳TV","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/海纳TV.json"},
+
+{"key":"策驰影视","name":"🧿策驰影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/策驰影视.json"},
 
 
 
+{"key":"素白白","name":"🧿素白白","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/素白白.json"},
 
+{"key":"Freeok影视","name":"🧿Freeok影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/Freeok影视.json"},
 
+{"key":"酷吧影视","name":"🧿酷吧影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/酷吧影视.json"},
+
+{"key":"侠客影视","name":"🧿侠客影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/侠客影视.json"},
 
 
 
@@ -46,104 +65,9 @@
 
 
 
+    
+     
 
-  {
-            "key": "子子影视",
-            "name": "🧿子子影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./jar/001.jar",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./XBPQ/子子影视.json"
-        },
-        {
-            "key": "电影天堂",
-            "name": "🧿电影天堂",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		  "jar": "./jar/001.jar",
-            "ext": "./XBPQ/电影天堂.json"
-        },
-        {
-            "key": "海纳TV",
-            "name": "🧿海纳┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		 "jar": "./jar/001.jar",
-            "ext": "./XBPQ/海纳TV.json"
-        },
-        {
-            "key": "策驰影视",
-            "name": "🧿策驰影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		 "jar": "./jar/001.jar",
-            "ext": "./XBPQ/策驰影视.json"
-        },
-        {
-            "key": "好影快看",
-            "name": "🧿好影快看",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-		 "jar": "./jar/001.jar",
-            "ext": "./XBPQ/好影快看.json"
-        },
-        {
-            "key": "素白白影视",
-            "name": "🧿素白┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-		"jar": "./jar/001.jar",
-            "ext": "./XBPQ/素白白.json"
-        },
-        {
-            "key": "Freeok影视",
-            "name": "🧿Freeok影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		"jar": "./jar/001.jar",
-            "ext": "./XBPQ/Freeok影视.json"
-        },
-        {
-            "key": "酷吧影视",
-            "name": "🧿酷吧影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-		"jar": "./jar/001.jar",
-            "ext": "./XBPQ/酷吧影视.json"
-        },
-        {
-            "key": "侠客影视",
-            "name": "🧿侠客影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "changeable": 1,
-		"jar": "./jar/001.jar",
-            "ext": "./XBPQ/侠客影视.json"
-        },
         {
             "key": "黑狐影院",
             "name": "🧿黑狐影院",
