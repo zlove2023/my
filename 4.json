@@ -323,22 +323,11 @@
                 "分类": "电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53"
             }
         },
-        {
-            "key": "巨人影视",
-            "name": "🧿巨人┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://www.juren.co/channel/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$3#综艺$4#少儿$19#短剧$21#美女热舞$18#即将上线$20#直播$7"
-            }
-        },
+   
 
 
 
+{"key":"巨人影视","name":"🧿巨人影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/巨人影视.json"},
 
 
 
