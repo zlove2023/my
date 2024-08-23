@@ -17,13 +17,16 @@
 	"sites": [
 
   {"key":"Local","name":"📂本地文件管理器","type":3,"api":"csp_Local","jar":"./jar/bd.jar"},
+
+
+
 {"key":"夜猫短剧","name":"🍡夜猫短剧","type":3,"api":"csp_YMduanju","jar":"./ymz_0509.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_无忧短剧","name":"🍡无忧短剧","type":3,"api":"csp_Duanj","searchable":1,"changeable":0,"jar":"./danmu.jar"},
 {"key":"短剧吧","name":"🍡短剧吧","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi","分类url":"https://duanju8.cc/type/{cateId}/page/{catePg}.html"},"jar":"./XBPQ.jar"},
 {"key":"短剧tv","name":"🍡短剧tv","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html","线路标题":"<h3*>&&</h3>","线路数组":"\"more text-muted pull-right\">&&</ul>","播放数组":"\"more text-muted pull-right\">&&</ul>","播放链接":"http+://www.duanjutv.cc+href='&&'","分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m","分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"},"jar":"./XBPQ.jar"},
-{"key":"hipy_js_短剧TV网","name":"短剧TV网_HIPY","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/短剧TV网.js"},
+{"key":"hipy_js_短剧TV网","name":"短剧TV网_HIPY","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/短剧TV网.js"},
 {"key":"短剧天堂","name":"🍡短剧天堂","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","搜索url":"https://duanjutt.tv/vodsearch/{wd}-----------{pg}---.html","分类url":"https://duanjutt.tv/vodshow/{cateId}--------{catePg}---.html","免嗅":"0","嗅探词":".mp4#.m3u8#.flv","分类":"逆袭$1#甜宠$2#虐恋$3#穿越$4#重生$5","分类数组":"col-lg-5 col-md-5 col-sm-5 col-xs-3\">&&</li>","分类ID":"/vodtype/&&.html"},"jar":"./XBPQ.jar"},
-{"key":"hipy_js_短剧天堂","name":"短剧天堂_HIPY","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/短剧天堂.js"},
+{"key":"hipy_js_短剧天堂","name":"短剧天堂_HIPY","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./js/短剧天堂.js"},
 {"key":"fty-短剧","name":"🌈短剧天堂[影视]_SP","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1,"jar":"./fty_0805.jar"},
 {"key":"csp_秒播短剧","name":"🍡秒播短剧","type":3,"api":"csp_Wexduanjuvop","searchable":1,"changeable":1,"jar":"./wex0613.txt"},
 {"key":"Wexduanjuhema","name":"🍡河马短剧","type":3,"api":"csp_Wexduanjuhema","searchable":1,"changeable":1,"jar":"./wex0613.txt"},
@@ -41,10 +44,14 @@
 {"key":"555zxdy","name":"🔴555zxdy","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","分类":"短剧$45","分类url":"https://www.555zxdy.com/vod/show/by/{by}/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"},"jar":"./XBPQ.jar"},
 {"key":"csp_XBPQ_vstv","name":"🔴VS短剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"简介":"醉卧东风祝您观影愉快","分类url":"https://www.ytshengde.com/sanyisw/{cateId}-{area}-------{catePg}---{year}.html","分类":"短剧$5"},"jar":"./XBPQ.jar"},
 {"key":"短剧网","name":"🔴短剧网","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","分类":"逆袭$逆袭#甜宠$甜宠#虐恋$虐恋#穿越$穿越#重生$重生","分类url":"http://2ju.cc/show/duanju/class/{cateId}/page/{catePg}.html"},"jar":"./XBPQ.jar"},
-{"key":"hipy_短剧天堂","name":"🏅短剧[影视]_HIPY","type":3,"api":"./lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":87,"ext":"./js/短剧天堂.js"},
-{"key":"hipy_js_星芽短剧","name":"🏅星芽短剧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/星芽短剧.js"},
-{"key":"hipy_js_榜一短剧","name":"🏅榜一短剧","type":3,"api":"./lib/drpy2.min.js","ext":"./js/榜一短剧.js"},
-{"key":"T4-mmdj","name":"短剧-MM(T4)","type":4,"api":"https://catbox.n13.club/t9/mmdj.php"},
+{"key":"hipy_短剧天堂","name":"🏅短剧[影视]_HIPY","type":3,"api":"./js/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":87,"ext":"./js/短剧天堂.js"},
+{"key":"hipy_js_星芽短剧","name":"🏅星芽短剧","type":3,"api":"./js/drpy2.min.js","ext":"./js/星芽短剧.js"},
+{"key":"hipy_js_榜一短剧","name":"🏅榜一短剧","type":3,"api":"./js/drpy2.min.js","ext":"./js/榜一短剧.js"},
+{"key":"T4-mmdj","name":"短剧-MM(T4)","type":4,"api":"https://catbox.n13.club/t9/mmdj.php"}
+
+
+
+		
 
 
 
