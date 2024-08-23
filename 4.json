@@ -121,6 +121,7 @@
 {"key":"凯奇影视","name":"🧿凯奇影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/凯奇影视.json"},
 
 
+{"key":"速迅影视","name":"🧿速迅影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/速迅影视.json"},
 
 
 
@@ -133,25 +134,7 @@
 
 
        
-        {
-            "key": "速迅影视",
-            "name": "🧿速迅┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "影片年代": "<div class=\"module-info-tag\">&&</div>",
-                "影片地区": "圥忈制作",
-                "影片状态": "备注：&&</div>",
-                "影片类型": "module-info-tag\">&&立即播放",
-                "线路数组": "data-dropdown-value=&&</div>",
-                "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
-                "分类url": "https://vip.suxun.site/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$43"
-            }
-        },
+
         {
             "key": "碟迷",
             "name": "🧿文采┃蓝光",
@@ -168,6 +151,10 @@
                 "分类": "国产$guochan#韩剧$hanju#港剧$gangju#美剧$meiju#日剧$riju#台剧$taibei#泰剧$taiju#短剧$duanju#动作片$dongzuo#喜剧片$xiju#爱情片$aiqing#科幻片$kehuan#恐怖片$kongbu#战争片$zhanzheng#剧情片$juqing#动漫$dongman#综艺$zongyi"
             }
         },
+
+
+
+
         {
             "key": "白雾影视",
             "name": "🧿白雾┃蓝光",
@@ -199,19 +186,21 @@
                 "分类": "电影$2#电视剧$1#动漫$3#综艺$4"
             }
         },
-        {
-            "key": "宝片影视",
-            "name": "🧿宝片┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "分类url": "https://ibaopian.com/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$20#短剧$22"
-            }
-        },
+
+
+
+
+
+
+
+
+{"key":"宝片影视","name":"🧿宝片影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/宝片影视.json"},
+
+
+
+
+
+
         {
             "key": "iysdq",
             "name": "🧿影院┃蓝光",
