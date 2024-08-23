@@ -217,6 +217,8 @@
 
 
 
+{"key":"短剧吧","name":"🍡短剧吧","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","分类":"恋爱$lianai#反转$fanzhuan#悬疑$xuanyi#穿越$chuanyue#古装$guzhuang#都市$dushi","分类url":"https://duanju8.cc/type/{cateId}/page/{catePg}.html"},"jar":"./jar/001.jar"},
+{"key":"短剧tv","name":"🍡短剧tv","type":3,"api":"csp_XBPQ","ext":{"简介":"醉卧东风祝您观影愉快","搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html","线路标题":"<h3*>&&</h3>","线路数组":"\"more text-muted pull-right\">&&</ul>","播放数组":"\"more text-muted pull-right\">&&</ul>","播放链接":"http+://www.duanjutv.cc+href='&&'","分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html;;m","分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23"},"jar":"./jar/001.jar"},
 
 
 
