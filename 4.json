@@ -207,9 +207,6 @@
 	//{"key":"极速蓝光","name":"🧿极速蓝光","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/极速蓝光.json"},
 
 
-{"key":"可乐影视","name":"🧿可乐影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/可乐影视.json"},
-
-	
 
 
 
@@ -578,7 +575,7 @@
 //{"key":"最新┃影视","name":"💡最新┃影视","type":3,"api":"csp_Zx1080","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"剧圈影视","name":"💡剧圈┃影视","type":3,"api":"csp_Juqq","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"毛驴影视","name":"💡毛驴┃影视","type":3,"api":"csp_MaoLv","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"可可影视","name":"💡可可┃影视","type":3,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1},
+
 {"key":"圣城影视","name":"💡圣城┃影视","type":3,"api":"csp_SC1080","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"机器人","name":"💡机器┃影视","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
 {"key":"大米星球","name":"💡大米┃影视","type":3,"api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
