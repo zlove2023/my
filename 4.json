@@ -311,7 +311,38 @@
             "ext": "./js/哔哩视频.js"
         },
 
+      {
+            "key": "虎牙直播js",
+            "name": "虎牙直播",
+            "type": 3,
+            "api": "./js/drpy2.min.js",
+            "ext": "./js/虎牙2.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1.755
+            },
+            "playerType": "1",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+        },
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
 
 
 
