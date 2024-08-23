@@ -1,3 +1,13 @@
+//searchable:搜索开关	0:关闭；1:启用
+//filterable:筛选开关		0:关闭；1:启用
+//changeable:换源开关	0:关闭；1:启用
+//playerType:播放器类型	1:IJK；2:EXO
+//采集接口类型		0:xml；1:json
+//parses解析类型		0，嗅探，自带播放器；1，解析，返回直链
+//其他说明ua:用户代理,epg:节目网址,logo:台标网址,boot:是否自动开启
+
+
+
 
 {
 	"wallpaper":"",
