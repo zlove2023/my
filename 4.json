@@ -43,6 +43,8 @@
 {"key":"可乐影视","name":"🧿可乐影视","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/可乐影视.json"},
 
      
+{"key":"影视剧","name":"🧿影视剧","type":3,"api":"csp_XBPQ", "jar": "./jar/001.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XBPQ/影视剧.json"},
+
 
 
        
