@@ -1,0 +1,8 @@
+{
+    "搜索url": "https://www.baiwoo.com/search.php?searchword={wd}",
+    "简介": "请勿相信影片中的广告，以免上当受骗。+剧情介绍：&&</li>",
+    "线路数组": "<span style=\"font-size:16px;&&</span>",
+    "线路标题": ">&&<",
+    "分类url": "https://www.baiwoo.com/{cateId}-{catePg}.html",
+    "分类": "动作片$i/?5#爱情片$i/?6#科幻片$i/?7#恐怖片$i/?8#战争片$i/?9#喜剧片$i/?10#剧情片$i/?12#纪录片$i/?28#大陆剧$i/?13#港台剧$i/?14#欧美剧$i/?15#日韩剧$i/?16#海外剧$i/?31#动漫$i/?4#综艺$i/?3"
+}
