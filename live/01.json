@@ -1,5 +1,3 @@
 詹詹专用,#genre#
 
-
-CCTV3,http://stream.appwuhan.com/1tzb/sd/live.m3u8
-
+浙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001345/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
